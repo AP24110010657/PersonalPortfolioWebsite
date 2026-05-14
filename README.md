@@ -118,4 +118,4 @@ This project helps in gaining practical experience with:
 
 ## 👩‍💻 Author
 
-Lakshmi Gayatri
+Ambadipudi Lakshmi Gayatri
