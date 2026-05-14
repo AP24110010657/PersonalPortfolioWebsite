@@ -36,7 +36,7 @@ A modern full-stack personal portfolio website built to showcase my projects, te
 
 ### Deployment
 
-* Vercel / Netlify
+* Vercel
 
 ---
 
@@ -86,7 +86,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-Coming Soon...
+Live Link: https://personal-portfolio-website-eight-phi.vercel.app/
 
 ---
 
